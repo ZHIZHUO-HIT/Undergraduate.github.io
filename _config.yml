@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Shandong University
 author-img: SDU.jpg 
-about-author:I mainly did some research about UAV flight control system design & modeling, fault diagonisis etc. 
+about-author: I mainly did some research about UAV flight control system design & modeling, fault diagonisis etc. 
 
 
 # Disqus
