@@ -114,6 +114,12 @@ The car has two motors, each of them has independent controller, We have try the
 - Bang-bang controller
 - Cascade PID controller
 
+## Circuit design
+
+The circuit boards on cars were designed by myself, including  MCU system board, motor drive board, sensors drive board etc. Some of them are shown below:
+
+![14]({{site.baseurl}}/assets/img/p.jpg)
+
 ## Summary
 
 We have won First Prize of 13th National College Student Smart Car Competition.
@@ -124,7 +130,7 @@ We have won First Prize of 13th National College Student Smart Car Competition.
 
 ![12]({{site.baseurl}}/assets/img/k.jpg)
 
-![11]({{site.baseurl}}/assets/img/l.jpg)
+![13]({{site.baseurl}}/assets/img/l.jpg)
 
 Since then I always believe that **nothing is impossible. Your life is controlled by yourself.**
 
