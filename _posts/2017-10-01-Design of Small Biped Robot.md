@@ -6,7 +6,7 @@ description: This is one project in hit smart club.
 fig-caption: 'null'
 tags: HIT
 categories: ''
-img: quoridor.JPG
+img: zz.jpg
 ---
 ## Introduce
 
