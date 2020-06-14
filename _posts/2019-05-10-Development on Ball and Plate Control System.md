@@ -1,7 +1,7 @@
 ---
 title: Development on Ball and Plate Control System
 layout: post
-tags: U.C.Berkeley
+tags: 
 img: yy.jpg
 categories: ''
 ---
@@ -12,7 +12,9 @@ The mission of this system was to control the position of the ball on the board 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WgNDDdSsRhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 ## Summary
 
-Won First Prize of National College Students Electronic Design Competition. This contest only allows three days from the announcement of the title to the submission of works, but we have used more than a year to reserve relevant knowledge and skills. During the three days of the competition, my two teammates and I did not sleep, and the test was completed and submitted only two hours before the deadline.
+Won First Prize of National College Students Electronic Design Competition sponsored by TI. This contest only allows three days from the announcement of the title to the submission of works, but we have used more than a year to reserve relevant knowledge and skills. During the three days of the competition, my two teammates and I did not sleep, and the test was completed and submitted only two hours before the deadline. The certificate is as follows:
+
+![2]({{site.baseurl}}/assets/img/diansai.PNG)
+

@@ -17,15 +17,12 @@ This source is from College Student Smart Car Competition  sponsored by NXP. I h
 Video of  final in second season:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJoHa7aG3SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Video of heat in first season:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zYnYEtuZWng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Test video at the fastest speed about 3.3m/s:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4bquhmNohJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Several versions of the car :
 
 ![1]({{site.baseurl}}/assets/img/a.jpg)
@@ -35,6 +32,8 @@ Several versions of the car :
 ![3]({{site.baseurl}}/assets/img/c.jpg)
 
 ## Navigation algorithm
+
+The car mainly uses the navigation algorithm fused from navigation algorithm based on camera and navigation algorithm based on wire guidance. The two methods are briefly introduced below.
 
 ### (1)  Navigation algorithm based on camera
 
