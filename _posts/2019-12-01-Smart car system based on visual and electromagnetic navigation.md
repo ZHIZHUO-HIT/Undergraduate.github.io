@@ -14,13 +14,19 @@ This source is from College Student Smart Car Competition  sponsored by NXP. I h
 
 ## Some photos and videos
 
-Video of  heat:
+Video of  final in second season:
 
-此处插入省赛视频
+<iframe width="560" height="315" src="https://https://youtu.be/BJoHa7aG3SM" frameborder="0" allowfullscreen></iframe>
 
-Video of  final:
+Video of heat in first season:
 
-此处插入国赛视频
+插入刘
+
+Test video at the fastest speed about 3.3m/s:
+
+此处插入最快视频
+
+
 
 Several versions of the car :
 
