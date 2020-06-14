@@ -7,7 +7,7 @@ img: chuan.jpg
 ---
 ## Introduce
 
-Designed a robotic ship with functions such as automatic driving and garbage classification. The ship has two modes of operation: manual remote control, follow the predetermined track. It is shown in the following video：
+Designed a robotic ship with functions such as automatic driving and garbage classification. The ship has two modes of operation: manual remote control, follow the predetermined track. It is shown in the following video(I am so sorry this video was made a long time ago, the material can no longer be edited again. Because the original video was made with Chinese commentary and subtitles,  I add some key English commentary, it looks a little cluttered )：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3_GFxK8go1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Project source
