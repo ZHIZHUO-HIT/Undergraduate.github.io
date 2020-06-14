@@ -16,7 +16,7 @@ This source is from College Student Smart Car Competition  sponsored by NXP. I h
 
 Video of  final in second season:
 
-<iframe width="560" height="315" src="https://youtu.be/BJoHa7aG3SM" frameborder="0" allowfullscreen></iframe>Video of heat in first season:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJoHa7aG3SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 插入刘
 
