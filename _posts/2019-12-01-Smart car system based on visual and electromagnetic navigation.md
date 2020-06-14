@@ -18,13 +18,13 @@ Video of  final in second season:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJoHa7aG3SM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-插入刘
+Video of heat in first season:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYnYEtuZWng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Test video at the fastest speed about 3.3m/s:
 
-此处插入最快视频
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bquhmNohJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Several versions of the car :
 
