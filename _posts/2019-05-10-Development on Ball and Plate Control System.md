@@ -9,7 +9,7 @@ categories: ''
 
 The mission of this system was to control the position of the ball on the board (make the ball stand still at any point or make the ball move along a certain trajectory).Used OV7725 camera to get the location of the ball. Proposed a cascade PID algorithm (including angular velocity loop, angular acceleration loop, ball speed loop and the angle loop) to control two servos to move the position of the ball on the plate. The operation of the entire system can be demonstrated by the following video.
 
-#插入板球控制系统视频
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WgNDDdSsRhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
